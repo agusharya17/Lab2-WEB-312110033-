@@ -7,8 +7,18 @@ NIM     : 312110033
 Kelas   : TI.21.C2
 
 
-Hasil Secrenshootannya =
+# Cara menjalankannya
+Open Xampp dan klik start pada apache dan my sql :
+![image](https://user-images.githubusercontent.com/31887335/227365860-d24299d5-4b34-4731-8e3b-b92abdb2f640.png)
 
+Setelah itu ketikkan ( http://localhost/tugas/php_dasar.php ) pada browser seperti EDGE misalnya :
+Tunggu samapi muncul gambar seperti dibawah ini :
+![image](https://user-images.githubusercontent.com/31887335/227366490-6c6f033f-e7a1-4b90-9f18-592f46f39e2b.png)
+
+
+
+
+Hasil Secrenshootannya =
 
 
 
